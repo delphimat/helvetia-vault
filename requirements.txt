@@ -1,10 +1,5 @@
-fastapi
-uvicorn
 pymongo
-pymongo-crypt
+pymongo[encryption]
 voyageai
 openai
-langchain
-langchain-mongodb
-pydantic
 python-dotenv
