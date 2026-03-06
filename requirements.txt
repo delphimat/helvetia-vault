@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+pymongo-crypt
+voyageai
+openai
+langchain
+langchain-mongodb
+pydantic
+python-dotenv
